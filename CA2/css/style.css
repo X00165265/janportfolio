@@ -1,0 +1,87 @@
+body {
+  background-color: #f8f9fa; 
+}
+
+
+.section {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #ffffff; 
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+.navbar-brand {
+  order: 0; 
+  margin-right: auto;
+}
+
+.navbar-nav {
+  margin-left: auto; 
+}
+.img-circle {
+  border-radius: 50%;
+}
+
+.navbar-nav .nav-item .nav-link {
+  color: #495057; 
+}
+
+.navbar-nav .nav-item .nav-link:hover,
+.navbar-nav .nav-item .nav-link:focus {
+  color: #007bff; 
+}
+
+
+.navbar-nav .nav-item.active .nav-link {
+  color: #ffffff; 
+  background-color: #007bff; 
+}
+
+#gradesAccordion {
+  text-align: left;
+}
+
+#gradesAccordion .accordion-item {
+  border-bottom: 1px solid #ddd; 
+}
+
+#gradesAccordion .accordion-header {
+  background-color: #f8f9fa;
+}
+
+.carousel-label {
+  font-weight: bold;
+  font-size: 18px; 
+  max-width: 200px; 
+  margin: 0 auto; 
+  padding: 8px; /
+}
+
+.card-img-top {
+  max-height: 280px; 
+  object-fit: contain;
+}
+
+.carousel-inner img {
+  max-height: 400px; 
+  object-fit: contain;
+}
+
+.hobbies-icon {
+  max-height: 50px;
+  object-fit: contain;
+}
+
+.exercise-icon,
+.music-icon,
+.travel-icon {
+    width: 80px; 
+    height: 80px; 
+}
+body {
+  background-color: #f2f2f2; 
+  padding-top: 56px; 
+}
